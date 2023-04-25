@@ -1,2 +1,3 @@
-# Terraform_primeiros_passos
-primeirso comandos utilizando Terraform do curso Alura
+# AWS Terraform
+> primeiros comandos utilizando Terraform do curso Alura
+> subindo uma EC2 
